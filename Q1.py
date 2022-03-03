@@ -73,3 +73,29 @@ while i<len(question_list):
             print("wrong ans")
             break
     i+=1 
+
+# a="anjali\nvaishali\n"
+# a+="rani\n"
+# print(a)
+
+# a="my name is anjali singh\n"
+# a+="i am student of navgurukul\n"
+# print(a)
+
+
+
+# i = 420
+# while i<=440:
+#     print(440-i)
+#     i+=1
+
+
+
+
+
+
+
+
+
+
+
